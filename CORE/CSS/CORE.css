@@ -1,0 +1,221 @@
+
+.links-menu-navegadores{
+	text-decoration: none;
+	color:white;
+}
+
+.links-menu-navegadores:hover{
+	text-decoration: none;
+	color:gray;
+}
+
+.no_link{
+	text-decoration: none;
+	color: black;
+}
+
+.bg-img{
+	background-image: url("../../PICTURES/fondo.jpg");
+	background-size: 100%;
+
+    background-attachment: fixed;
+
+}
+
+span.input-group-text{
+	background-color: rgb(177, 242, 194);
+}
+
+.table{
+background-color: rgba(177, 242, 194,0.50);	
+}
+.fondo_verdecito{
+background-color: rgba(177, 242, 194,0.50);	
+}
+
+.fv_hover{
+background-color: rgba(177, 242, 194,0.50);	
+}
+.fv_hover:hover{
+background-color: rgba(177, 242, 194,1);	
+}
+.sb-sidenav-menu-nested{
+	background-color: rgba(0,0,0,0.2);
+}
+
+.fondo_span{
+	 align-items: center;
+  padding: 0.175rem 0.75rem;
+  padding-right: 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  white-space: nowrap;
+  background-color: rgb(177, 242, 194);
+  border: 1px solid #ced4da;
+  border-radius: 0.375rem;
+}
+
+.img-google-earth{
+	padding: 0px;
+	margin:0px;
+	border-radius: 5px;
+	  box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.5);
+
+}
+
+
+/* Prubas Arriba*/
+
+
+/*
+Codigo de Pruebas
+.row > div{
+	padding: 10px;
+	background-color: aqua;
+	border: 2px solid coral;
+}
+
+.container{
+	border: 2px solid red;
+}
+*/
+.redondea_esquinas{
+	border-radius: 5px;
+}
+.img-radius{
+	border-radius: 50%;
+}
+.dropdown-menu{
+	position: absolute;
+	z-index: 999;
+}
+.una-linea {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.menu-encima{
+position: absolute;
+  z-index: 999;
+  
+}
+.debajo-menu{
+  position: inherit;
+  z-index: -1;
+  margin-top: 60px;
+}
+}
+
+
+.apagi{
+  margin:5px;
+}
+.font-minus{
+font-size: 0.7rem;
+}
+.font-mini{
+font-size: 0.5rem;
+}
+
+
+.alto-auto{
+	height: auto;
+}
+
+.centrar-vertical{
+	align-content: center;
+}
+.form-check-input{
+	cursor: pointer;
+}
+.ar-cursor-pointer{
+	cursor: pointer;
+}
+.z-index-menu{
+	position: absolute;
+	z-index: 999;
+}
+
+.bg-color-principal{
+	background-color: var(--color-principal) ;
+}
+.sombra{
+  box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.flota-derecha{
+	float: right;
+}
+
+.flota-izquierda{
+	float: left;
+}
+
+.todo_alto{
+  height: 91vh;
+  min-height:91vh ;
+}
+
+
+
+
+
+.ancho100{width: 100%;}
+.ancho90{width: 90%;}
+.ancho80{width: 80%;}
+.ancho70{width: 70%;}
+.ancho60{width: 60%;}
+.ancho50{width: 50%;}
+.ancho40{width: 40%;}
+.ancho30{width: 30%;}
+.ancho20{width: 20%;}
+.ancho10{width: 10%;}
+
+.alto100{height: 100%;}
+.alto90{height: 90%;}
+.alto80{height: 80%;}
+.alto70{height: 70%;}
+.alto60{height: 60%;}
+.alto50{height: 50%;}
+.alto40{height: 40%;}
+.alto30{height: 30%;}
+.alto20{height: 20%;}
+.alto10{height: 10%;}
+
+.alto10px{height: 10px;}
+.alto20px{height: 20px;}
+.alto30px{height: 30px;}
+.alto40px{height: 40px;}
+.alto50px{height: 50px;}
+.alto60px{height: 60px;}
+.alto70px{height: 70px;}
+.alto80px{height: 80px;}
+.alto90px{height: 90px;}
+.alto100px{height: 100px;}
+.alto110px{height: 110px;}
+.alto120px{height: 120px;}
+.alto130px{height: 130px;}
+.alto140px{height: 140px;}
+.alto150px{height: 150px;}
+.alto160px{height: 160px;}
+.alto170px{height: 170px;}
+.alto180px{height: 180px;}
+.alto190px{height: 190px;}
+.alto200px{height: 200px;}
+
+.alinear-centro{
+	align-content: center;
+	vertical-align: center;
+}
+
+.centrar{
+	text-align: center;
+}
+
+.ver-bordes{
+border: 1px solid rgba(0, 0, 0, 0.5);
+}
