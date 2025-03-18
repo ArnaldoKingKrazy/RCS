@@ -1,0 +1,4 @@
+              <a class="me-4 links-menu-navegadores"  href="#"  onclick="about_quienes_somos()"><i class="fas fa-users"></i> Quienes Somos</a>
+              <a class="me-4 links-menu-navegadores"  href="#" onclick="about_contacto();"><i class="fas fa-envelope"></i> Contacto</a>
+              <a class="me-4 links-menu-navegadores"  href="PICTURES/en_construccion.png" data-lightbox="image-3" data-title="En Construcción" onclick="#"><i class="fas fa-tags"></i> Oferta de Vienes y Sevicios</a>
+              <a class="me-4 links-menu-navegadores" href="#" onclick="modulo_galeria_user();"><i class="fas fa-images"></i> Fotos</a>
